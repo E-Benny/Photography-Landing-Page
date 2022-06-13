@@ -1,5 +1,5 @@
 ## Photography Landing Page
-This repository contains an HTML file that mimics a modern layout of a photography landing page. This project was created using HTML, CSS and JavaScript.
+This repository contains an HTML file that mimics a modern layout of a photography landing page. This project was created using HTML, CSS, SCSS and JavaScript.
 
 ## Installation
 This HTML file does not need Yarn or NPM to install the application. Simply open the HTML file to use it.If you would like to fork the design, make sure you have a SASS Compiler installed in your Microsoft Visual Studio Code app to convert the SCSS file to CSS. Without the compiler, the SCSS version would not render any stylish changes to the HTML file.
